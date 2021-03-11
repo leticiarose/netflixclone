@@ -3,7 +3,7 @@
 ## 🚀Another project diving into the world of React JS!👩🏻‍💻
 
 ## ⚒️ Technology
-### The following tools were used in the construction of the project:
+### The following tools were used in the construction of the project
 
 - ReactJS
 
